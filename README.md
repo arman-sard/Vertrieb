@@ -1,2 +1,4 @@
-# Vertrieb
-Terminal menu "Vertrib" 
+# Vertrieb terminal menu
+- customer administration
+- serialization 
+ 
